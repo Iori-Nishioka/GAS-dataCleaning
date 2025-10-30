@@ -1,0 +1,23 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "DataClean",
+        "version": "0",
+        "libraryId": "1Yr2g74C9jyyIPBjRI_59zDBhisyCCRUvssaD6YomI6B8lfbgf8685Lj_",
+        "developmentMode": true
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [
+      {
+        "menuName": "無題のマクロ",
+        "functionName": "myFunction"
+      }
+    ]
+  }
+}
